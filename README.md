@@ -1,4 +1,4 @@
-# WP CLI Commands for Oxygen Builder (test)
+# WP CLI Commands for Oxygen Builder
 
 ## Usage via Composer
 
